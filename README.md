@@ -1,1 +1,0 @@
-# prathvikricks.github.io
