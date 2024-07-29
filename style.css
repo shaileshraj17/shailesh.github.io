@@ -488,3 +488,13 @@ nav .fas{
     margin-top: -40px;
     display: none;
 }
+ .cert-item {
+        justify-content: center;
+    }
+
+    .cert-item img.cert-image {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+    }
+}
